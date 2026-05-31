@@ -7,23 +7,19 @@ A Tetris clone built with Python and Pygame.
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 🎥 Demo
+<h2>🎥 Demo</h2>
 
-![Python Tetris Demo](screenshots/demo.gif)
+<p align="center">
+  <img src="screenshots/demo.gif" width="700">
+</p>
 
-## 📸 Screenshots
+<h2>📸 Screenshots</h2>
 
-### Main Menu
-
-![Main Menu](screenshots/menu.png)
-
-### Gameplay
-
-![Gameplay](screenshots/gameplay.png)
-
-### Game Over
-
-![Game Over](screenshots/gameover.png)
+<p align="center">
+  <img src="screenshots/menu.png" width="32%">
+  <img src="screenshots/gameplay.png" width="32%">
+  <img src="screenshots/gameover.png" width="32%">
+</p>
 
 ---
 
