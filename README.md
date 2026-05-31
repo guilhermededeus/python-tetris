@@ -1,12 +1,37 @@
 # 🎮 Python Tetris
 
-## 🇺🇸 English
-
 A Tetris clone built with Python and Pygame.
+
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Library](https://img.shields.io/badge/Library-Pygame%20CE-green)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+## 🎥 Demo
+
+![Python Tetris Demo](screenshots/demo.gif)
+
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+### Gameplay
+
+![Gameplay](screenshots/gameplay.png)
+
+### Game Over
+
+![Game Over](screenshots/gameover.png)
+
+---
+
+# English
 
 ## Features
 
-* Classic Tetris pieces
+* Classic Tetris gameplay
 * Score system
 * Level progression
 * Hard Drop
@@ -15,6 +40,7 @@ A Tetris clone built with Python and Pygame.
 * Persistent high score
 * Sound effects and background music
 * Fullscreen support (F11)
+* Keyboard support with Arrow Keys and WASD
 
 ## Requirements
 
@@ -51,14 +77,15 @@ python3 main.py
 
 ## Controls
 
-| Action     | Key       |
-| ---------- | --------- |
-| Move       | ← →       |
-| Soft Drop  | ↓         |
-| Rotate     | ↑ / Space |
-| Hard Drop  | Shift     |
-| Pause      | Esc       |
-| Fullscreen | F11       |
+| Action     | Keys          |
+| ---------- | ------------- |
+| Move Left  | ← / A         |
+| Move Right | → / D         |
+| Soft Drop  | ↓ / S         |
+| Rotate     | ↑ / W / Space |
+| Hard Drop  | Shift         |
+| Pause      | Esc           |
+| Fullscreen | F11           |
 
 ## Technologies
 
@@ -70,23 +97,22 @@ python3 main.py
 
 Created for learning purposes.
 
+---
 
-## 🇧🇷 Português
-
-Um clone do Tetris desenvolvido em Python utilizando Pygame.
-
+# Português (Brasil)
 
 ## Funcionalidades
 
-* 7 peças clássicas do Tetris
+* Jogabilidade clássica do Tetris
 * Sistema de pontuação
 * Progressão de níveis
 * Hard Drop
-* Próxima peça (Next Piece)
-* Pausa do jogo
+* Visualização da próxima peça
+* Menu de pausa
 * Recorde persistente
-* Efeitos sonoros e música
-* Tela cheia (F11)
+* Efeitos sonoros e música de fundo
+* Suporte a tela cheia (F11)
+* Suporte aos controles por Setas e WASD
 
 ## Requisitos
 
@@ -123,14 +149,15 @@ python3 main.py
 
 ## Controles
 
-| Ação           | Tecla      |
-| -------------- | ---------- |
-| Mover          | ← →        |
-| Acelerar queda | ↓          |
-| Girar peça     | ↑ / Espaço |
-| Hard Drop      | Shift      |
-| Pausar         | Esc        |
-| Tela cheia     | F11        |
+| Ação                  | Teclas         |
+| --------------------- | -------------- |
+| Mover para a esquerda | ← / A          |
+| Mover para a direita  | → / D          |
+| Acelerar queda        | ↓ / S          |
+| Girar peça            | ↑ / W / Espaço |
+| Hard Drop             | Shift          |
+| Pausar                | Esc            |
+| Tela cheia            | F11            |
 
 ## Tecnologias
 
