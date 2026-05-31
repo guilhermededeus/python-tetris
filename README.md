@@ -10,7 +10,7 @@ A Tetris clone built with Python and Pygame.
 <h2>🎥 Demo</h2>
 
 <p align="center">
-  <img src="screenshots/demo.gif" width="500">
+  <img src="screenshots/demo.gif" width="300">
 </p>
 
 <h2>📸 Screenshots</h2>
